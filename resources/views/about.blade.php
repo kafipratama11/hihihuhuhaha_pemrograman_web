@@ -33,7 +33,7 @@
 
 <body>
     <div id="bagian-utama">
-        <h1>About</h1>
+        <h1>Adam Ganteng</h1>
     </div>
 </body>
 
